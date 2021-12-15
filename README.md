@@ -54,8 +54,8 @@ A record of COVID-19 deaths by county [1] in the United States.
 - Population: Population of the county/region.
 - Dates: Multiple columns. Each row contains a time series of the number of deaths on that date.
 
-### masks_mandate/US_State_and_Territorial_Public_Mask_Mandates_by_County_by_Day.csv
-Record of the "U.S. State and Territorial Public Mask Mandates From April 10, 2020 through August 15, 2021 by County by Day" [2].
+### masks_mandate/US_State_and_Territorial_Public_Mask_Mandates.csv
+Record of the "U.S. State and Territorial Public Mask Mandates From April 10, 2020 through August 15, 2021 by County by Day" [2], filtered to include only the assignment county.
 
 *Schema*
 
